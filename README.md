@@ -1,2 +1,2 @@
 # myPortfolio
-This is a work in-progress. myPortfolio is a website where I will attach videos and information about past, current, and future projects.
+This myPortfolio is an outdated website I built using HTML5, CSS3, and Javascript. I am curretly working on my updated portfolio I am using react to build it
